@@ -1,0 +1,16 @@
+Xin chào quý thầy cô và các bạn. Đây là phần thử nghiệm về hệ thống điều khiển lazer hướng đến tọa độ được định sẵn. 
+Hệ thống có chức năng khi nhận vào hệ thống một tọa độ cụ thể từ bức ảnh, Hệ thống sẽ dự đoán góc quay và hướng lazer đến vị trí tương ứng. 
+Hệ thống sẽ được bắt đầu khởi động sau một ít thời gian.
+
+This is a test of the laser control system aiming at predetermined position. 
+The system has the function of receiving a specific position from the image, 
+the system will predict the rotation angle and laser direction to the corresponding location. 
+The system will be starts to boot after a little while.  
+
+Chú ý:
+1. Đây là chương trình thử nghiệm, Nên điều khiển lazer có thể có sai số. Hệ thống không được dùng có các ứng dụng điều khiển độ chính xác cao.
+2. Lazer có độ sáng tương đối cao, Chú ý không nhìn trực tiếp hoặc để lazer chiếu trực tiếp vào mắt.
+
+Attention:
+1. This is a test program, so laser control may have errors. The system should not be used for high-precision control applications.
+2. The laser has a relatively high brightness. Be careful not to look directly at it or let the laser shine directly into your eyes.
